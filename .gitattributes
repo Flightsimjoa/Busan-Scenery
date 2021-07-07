@@ -1,0 +1,2 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+C:/Users/Geonhee/Desktop/GIT[[:space:]]HUB[[:space:]]Upload/Busan/flightsimjoa-busancity.zip filter=lfs diff=lfs merge=lfs -text
